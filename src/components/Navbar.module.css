@@ -1,0 +1,8 @@
+
+.link {
+  @apply hover:text-[#E55D87] ease-linear duration-200
+}
+
+.block__inner {
+  @apply flex content-center flex-wrap justify-center xl:space-x-9 md:space-x-7
+}
